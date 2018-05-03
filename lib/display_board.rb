@@ -2,5 +2,5 @@
 
 def display_board
   puts "   |   |   \n-----------\n   |   |   \n-----------\n   |   |   \n"
-
+//I somehow missed the part that mentioned using \n... 
 end
