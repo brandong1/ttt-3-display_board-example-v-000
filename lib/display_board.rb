@@ -3,7 +3,11 @@
 def display_board
   puts "A Tic Tac Toe Board"
   
-  puts "   |   |   \n-----------\n   |   |   \n-----------\n |   |   \n"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
 
 end
 display_board
